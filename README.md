@@ -10,5 +10,8 @@ Functionalities:
 
 4. Pay off expense feature - "pay off" an expense and remove it from the list / stop tracking it.
 ---
+Future Improvements:
+- Allow for a way to save the expense data
+---
 Language:
 - Python
